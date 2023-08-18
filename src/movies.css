@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.moviesCont img{
+    height: 60vh;
+    
+}
+.card-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.card-text{
+    font-weight: bold;
+}
